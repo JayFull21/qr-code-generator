@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+qr_codes/*.png
+logs/*.log
+!qr_codes/.gitkeep
+!logs/.gitkeep
